@@ -1,8 +1,23 @@
-baseURL = "https://example.org/"
+baseURL = ""
 languageCode = "en-gb"
-title = "Jonathan Abbott's Blog"
-theme = "ananke"
+title = "Jon Abbott's Blog"
+theme = "hugo-theme-m10c"
+
+[params]
+  author = "Jon Abbott"
+  avatar = "images/avatar.jpeg"
+  description = "A personal blog covering ideas, experiments, and everyday observations."
+
+[[params.social]]
+  icon = "brand-github"
+  name = "Github"
+  url = "https://github.com/jrabbott/"
+[[params.social]]
+  icon = "brand-linkedin"
+  name = "LinkedIn"
+  url = "https://www.linkedin.com/in/jonrabbott/"
 
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
