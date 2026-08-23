@@ -7,7 +7,7 @@ description = 'A follow-up to my post on AI and accessibility: the strengths dys
 tags = ['dyslexia', 'neurodiversity', 'engineering', 'communication', 'personal development']
 +++
 
-In my [last post](/posts/ai-accessibilty-tool/), I wrote about using AI as an accessibility tool. That was about support. About friction. About the practical side of getting words out of my head and into the world.
+In a [previous post](/posts/ai-accessibilty-tool/), I wrote about using AI as an accessibility tool. That was about support. About friction. About the practical side of getting words out of my head and into the world.
 
 This one is different. It's about the upside.
 
