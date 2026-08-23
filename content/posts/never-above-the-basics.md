@@ -7,7 +7,7 @@ description = 'Passing AZ-900 and DP-900 forced me to stop scan-reading, sit the
 tags = ['azure', 'certification', 'dyslexia', 'learning', 'mentoring', 'personal development']
 +++
 
-I recently passed AZ-900 and DP-900. For those outside the Microsoft world, these are the Azure Cloud and Data Fundamentals exams. On paper, they are entry-level. At my stage of career, they might even look unnecessary. For me, they were a reckoning — less about Azure, more about exams, and how I read when my usual shortcuts stop working.
+I recently passed AZ-900 and DP-900. For those outside the Microsoft world, these are the Azure Cloud and Data Fundamentals exams. On paper, they are entry-level. At my stage of career, they might even look unnecessary. For me, they were a reckoning: less about Azure, more about exams, and how I read when my usual shortcuts stop working.
 
 ## Why fundamentals?
 
@@ -15,7 +15,7 @@ I lead teams and mentor consultants. For years, I avoided exams. It wasn't just 
 
 I'm dyslexic. I've built a career around a stubborn inner imposter. Exams, with their rigid structures and specific wording, bring every bit of that anxiety to the surface.
 
-I told myself the problem was optics — that doing "Fundamentals" would look odd for a Principal. The truth was simpler: I was afraid of exams. Afraid of failing. Afraid of being judged.
+I told myself the problem was optics: that doing "Fundamentals" would look odd for a Principal. The truth was simpler: I was afraid of exams. Afraid of failing. Afraid of being judged.
 
 I wanted to do it for the shared experience. If I'm supporting others to push themselves, I need to be in the trenches with them. I needed to move from "telling" to "doing", and feel exactly where the wording trips you up when your usual tools are gone.
 
@@ -25,7 +25,7 @@ I expected the concepts to be familiar. This is my day-to-day world. What I didn
 
 In my day-to-day life, I survive on scan reading for context. I don't read every word. I sweep the page for the "shape" of a message and let my brain fill in the blanks. It's a fast, effective coping strategy.
 
-But exam questions are designed to break scanners. A single word like "not," "only," or "minimal" changes everything. My lifelong tools weren't just failing me — they were leading me into traps. To pass, I had to force my brain to slow down and process the exact text on the screen, word by painful word.
+But exam questions are designed to break scanners. A single word like "not," "only," or "minimal" changes everything. My lifelong tools weren't just failing me. They were leading me into traps. To pass, I had to force my brain to slow down and process the exact text on the screen, word by painful word.
 
 ## Seeing beyond the words
 
@@ -33,7 +33,7 @@ That forced slowdown had a quiet shift I didn't see coming. By stripping away my
 
 I started noticing when long messages said very little. I started noticing questions that never actually asked anything. I started noticing when polished, well-structured messages still didn't get to the point.
 
-Writing has always been hard for me — I've [written about that before](/posts/getting-started/) — but exams exposed a different kind of reading problem.
+Writing has always been hard for me, and I've [written about that before](/posts/getting-started/), but exams exposed a different kind of reading problem.
 
 ## The human connection
 
