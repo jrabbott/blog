@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "dont-over-help": {
+      "source": "jrabbott/skills-catalogue",
+      "sourceType": "github",
+      "skillPath": "skills/dont-over-help/SKILL.md",
+      "computedHash": "8b88747a8873a158bc80997345783414b2e91684ffda5c30490dd4fb9ff0e446"
+    },
+    "dyslexia-friendly-formatting": {
+      "source": "jrabbott/skills-catalogue",
+      "sourceType": "github",
+      "skillPath": "skills/dyslexia-friendly-formatting/SKILL.md",
+      "computedHash": "edfab9f03c1428945bd57e6a757a5412cd6adeff0d2087d30ae80bcf4fde7912"
+    },
+    "explain-simply": {
+      "source": "jrabbott/skills-catalogue",
+      "sourceType": "github",
+      "skillPath": "skills/explain-simply/SKILL.md",
+      "computedHash": "29b981400803e58d06cfae177dd9fbc6e04b3e1feb9f4d6d1215c3e18ce85180"
+    },
+    "organise-messy-thoughts": {
+      "source": "jrabbott/skills-catalogue",
+      "sourceType": "github",
+      "skillPath": "skills/organise-messy-thoughts/SKILL.md",
+      "computedHash": "bac0925ac58898057bfdefc88b6e36b195ec9a02292086b1a1cbf233c8fcf9c6"
+    },
+    "preserve-user-voice": {
+      "source": "jrabbott/skills-catalogue",
+      "sourceType": "github",
+      "skillPath": "skills/preserve-user-voice/SKILL.md",
+      "computedHash": "993df014d8120b9b799f22931e6568e3abd29d08691553764923d94c50610de0"
+    },
+    "simplify-text": {
+      "source": "jrabbott/skills-catalogue",
+      "sourceType": "github",
+      "skillPath": "skills/simplify-text/SKILL.md",
+      "computedHash": "a632738fdbd921223eb5425731324162f2e32708a1f5919ce0f2d41bf62e74a8"
+    },
+    "writing-support": {
+      "source": "jrabbott/skills-catalogue",
+      "sourceType": "github",
+      "skillPath": "skills/writing-support/SKILL.md",
+      "computedHash": "eb45b35cfdd0c21a3891d1536a13b3d0f9b5016cc991bb3d0d18e5f7cc8ddc22"
+    }
+  }
+}
